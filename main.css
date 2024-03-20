@@ -1,0 +1,117 @@
+.wrapper{
+    padding: 20px;
+}
+.errorBlock{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: rgb(234, 60, 60);
+    margin-top: 5px;
+}
+.errorUpdateBlock{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: rgb(234, 60, 60);
+    margin-top: 5px;
+}
+.form-select{
+    width: 300px;
+}
+.header{
+    display: flex;
+    align-items: center ;
+}
+.footer{
+    margin-top: 50px;
+    display: flex;
+    align-items: center ;
+}
+.btn_addUser{
+    margin-right: 15px;
+}
+.btn_ok{
+    margin-left: 15px;
+}
+.table{
+    margin-top: 55px;
+}
+.col1{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.input_main{
+    width: 15px;
+    height: 15px;
+}
+
+.input{
+    width: 15px;
+    height: 15px;
+
+}
+
+.status{
+    width: 15px;
+    height: 15px;
+    background-color: rgb(117, 117, 117);
+    border-radius: 50%;
+    border: none;
+}
+.status-active{
+    width: 15px;
+    height: 15px;
+    background-color: green;
+    border-radius: 50%;
+    border: none;
+}
+.table .status_col{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+   padding-top: 13px;
+}
+.col_actions{
+    width: 217.6px;
+    text-align: center
+}
+img{
+    width: 15px;
+    height: 15px;
+}
+.btn_edit{
+    border-radius: 10px 0px 0px 10px;
+    height: 38px;
+    margin-right: -5px;
+
+}
+.btn_delete{
+    border-radius: 0px 10px 10px 0px;
+    height: 38px;
+}
+.btn_delete img{
+    margin-top: -4px;
+}
+.role_title{
+    margin: 0;
+}
+.form-switch{
+    display: flex;
+    flex-direction: column;
+    padding: 0;
+}
+.form-switch .form-check-input {
+    margin-left: 0;
+}
+.form-check-input:checked {
+    background-color: #0dfd26;
+    border-color: #0dfd26;
+}
+.role_block{
+    margin-top: 25px;
+}
+.form_select-addUser{
+    margin-top: 8px;
+}
+
